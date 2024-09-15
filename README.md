@@ -17,7 +17,7 @@ To get started with this project, follow these steps to set up your development 
    First, clone the repository to your local machine. Replace `<repository-url>` with the URL of your Git repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Krishnasahu404/Gesture-Controls-Angry-Bird.git
    
 2. **Navigate to the Project Directory:**
      cd theAngryBirds
