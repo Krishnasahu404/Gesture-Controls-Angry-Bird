@@ -4,9 +4,18 @@ Welcome to the Angry Birds Game! This project is a fun and interactive version o
 
 ## Features
 
-- **Eye and Hand Gesture Control**: Control the game with your eyes and hand movements, thanks to integration with advanced gesture recognition technologies.
-- **Interactive Gameplay**: Enjoy the classic slingshot mechanics and destroy obstacles in a variety of levels.
-- **Real-Time Tracking**: Utilizes state-of-the-art computer vision techniques to track eye and hand movements in real-time.
+- **Eye and Hand Gesture Control**: Control the game using real-time eye and hand gesture tracking, providing a novel and engaging gameplay experience.
+  
+- **Multiple Levels**: The game includes various levels with increasing difficulty, each featuring different challenges and obstacles.
+
+- **Scoring System**: Players earn points based on their performance in each level. Higher scores are achieved by completing levels quickly and efficiently.
+
+- **Star Rating System**: After completing each level, players receive a star rating based on their performance. Collect all stars to achieve the highest rank.
+
+- **Interactive Gameplay**: Enjoy the classic slingshot mechanics with modern updates, including interactive environments and dynamic physics.
+
+- **Real-Time Tracking**: Utilizes advanced computer vision techniques to accurately track eye and hand movements, enhancing the gameplay experience.
+
 
 ## Installation
 
