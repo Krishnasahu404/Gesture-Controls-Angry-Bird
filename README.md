@@ -10,7 +10,7 @@ Welcome to the Angry Birds Game! This project is a fun and interactive version o
 
 - **Scoring System**: Players earn points based on their performance in each level. Higher scores are achieved by completing levels quickly and efficiently.
 
-- **Star Rating System**: After completing each level, players receive a star rating based on their performance. Collect all stars to achieve the highest rank.
+- **Star Rating System**: After completing each level, players receive a star rating based on their performance.
 
 - **Interactive Gameplay**: Enjoy the classic slingshot mechanics with modern updates, including interactive environments and dynamic physics.
 
