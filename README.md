@@ -25,5 +25,5 @@ To get started with this project, follow these steps to set up your development 
 3. **Install Required Libraries:**
      pip install pygame pymunk opencv-python mediapipe pyautogui cvzone
    
-4. **Running the Project**
+4. **Run the Project**
      python choice.py
