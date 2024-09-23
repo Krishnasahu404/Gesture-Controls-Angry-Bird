@@ -1,4 +1,4 @@
-# Angry Birds Game
+# Angry Birds Game with Hand & Eye Gesture Controls
 
 Welcome to the Angry Birds Game! This project is a fun and interactive version of the classic Angry Birds game, but with a unique twist. In this version, players can control the game using their eyes and hand gestures, providing a novel and engaging experience.
 
